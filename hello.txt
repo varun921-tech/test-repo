@@ -20,4 +20,6 @@ adding a line on remote repo
 >>>>>>> 4a154e0e08d7cc3a17e7f92fb09b4604d4e53e42
 
 
+a new line for feature branch
+
 
