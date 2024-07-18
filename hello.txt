@@ -6,3 +6,7 @@ I am learning to use git reset
 
 
 adding some more lines here
+
+
+
+new commit
