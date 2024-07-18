@@ -1,3 +1,5 @@
 swords and shields
 lead the war
 to end the war
+
+I am learning to use git reset
