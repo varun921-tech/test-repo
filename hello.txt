@@ -25,3 +25,6 @@ a new line for feature branch
 one more line for feature branch
 
 last line for feature branch
+
+
+feature branch commit text
